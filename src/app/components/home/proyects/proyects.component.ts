@@ -36,11 +36,11 @@ this.projects=[{
       "assets/images/portfolio/portfolio2.png",
       "assets/images/portfolio/portfolio3.png",
   ],
-  "Technologies": ["Angular", "SCSS", ]
+  "Technologies": ["Angular", "SCSS", "Azure" ]
 },
 {
   "Title": "Cafe App",
-  "Description": "Health plan quote that has a search engine with which advanced queries are made. Plans are displayed based on the user's age, monthly income, and location. It has <span class='underline'>online chat</span, <span class='underline'>contact form</span>, <span class='underline'>notification system by whatsapp and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>internet information management through the role of administrator.</span>",
+  "Description": "This project featured <span class='underline'>JWT token authentication</span>, <span class='underline'>role-based access</span> control, and <span class='underline'>Google OAuth2</span> for secure email capabilities. I integrated <span class='underline'>JQuery & Bootstrap</span> for a polished user interface and implemented <span class='underline'>lazy loading</span> for optimized performance. <span class='underline'>Router guards and animations</span> were used for a seamless user experience. I also developed <span class='underline'>reactive forms</span>, handled <span class='underline'>PDF generation and downloads</span>, and leveraged <span class='underline'>dependency injection and RxJS</span> for efficient asynchronous operations with <span class='underline'>Interceptors</span> for handling HTTP requests and responses. This project seamlessly integrated <span class='underline'>Angular</span> with <span class='underline'>Node.js</span> and <span class='underline'>PostgreSQL</span>, managing product categories, products, order, view-bill and user-mgmt components for streamlined cafe management.",
   "demoLink": "https://cafeweb.z13.web.core.windows.net/home",
   "imgs": [
       "assets/images/cafe/cafe1.png",
@@ -51,7 +51,7 @@ this.projects=[{
       "assets/images/cafe/cafe6.png",
       "assets/images/cafe/cafe7.png",
   ],
-  "Technologies": ["Angular", "NodeJs", "PostgreSQL", "RxJS", "Bootstrap", "JQuery"]
+  "Technologies": ["Angular", "NodeJs", "PostgreSQL", "RxJS", "Bootstrap", "JQuery", "Azure"]
 },
 {
   "Title": "Proyexiot",
