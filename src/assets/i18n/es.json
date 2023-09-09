@@ -86,26 +86,26 @@
     "FeatureProjects.Title": "Mis proyectos",
     "FeatureProjects.Label": "Proyecto Destacado",
     "FeatureProjects.Projects": [{
-            "Title": "Agrourbana",
-            "Description": "Aplicación de monitoreo realizada desde cero con módulo de auth, <span class='underline'>gráficos configurables</span>, <span class='underline'>alarmas configurables</span> y <span class='underline'>gestión de usuarios</span>. Cuenta también con lógica de formularios reactvios para la configuración de parámetros.",
-            "imgs": [
-                "assets/images/agrourbana/agrourbana1.png",
-                "assets/images/agrourbana/agrourbana2.png",
-                "assets/images/agrourbana/agrourbana3.png",
-                "assets/images/agrourbana/agrourbana4.png",
-                "assets/images/agrourbana/agrourbana5.png"
-            ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+      "Title": "Portfolio Website",
+      "Description": "Designed and developed a portfolio website using <span class='underline'>Angular 13</span>, showcasing a curated collection of projects and accomplishments. Leveraged Angular's powerful features to create a user-friendly and responsive platform that demonstrates technical skills, creativity, and a strong commitment to professionalism",
+      "imgs": [
+          "assets/images/portfolio/portfolio1.png",
+          "assets/images/portfolio/portfolio2.png",
+          "assets/images/portfolio/portfolio3.png"
+      ],
+      "Technologies": ["Angular", "SCSS" ]
         },
         {
             "Title": "Tu super plan",
             "Description": "Cotizador de planes de salud que cuenta con un buscador con el que se hacen consultas avanzadas. Los planes son mostrados en base a la edad, ingreso mensual y ubicacion del usuario. Cuenta con <span class='underline'>chat en linea</span>, <span class='underline'>formulario de contacto</span>, <span class='underline'>sistema de notificaiones por whatsapp y correo</span>, <span class='underline'>auth</span>, y <span class='underline'>gestion de informacion internet a travez del rol de administrador</span>.",
             "imgs": [
-                "assets/images/tusuperplan/tusuperplan1.png",
-                "assets/images/tusuperplan/tusuperplan2.png",
-                "assets/images/tusuperplan/tusuperplan3.png",
-                "assets/images/tusuperplan/tusuperplan4.png",
-                "assets/images/tusuperplan/tusuperplan5.png"
+                "assets/images/cafe/cafe1.png",
+                "assets/images/cafe/cafe2.png",
+                "assets/images/cafe/cafe3.png",
+                "assets/images/cafe/cafe4.png",
+                "assets/images/cafe/cafe5.png",
+                "assets/images/cafe/cafe6.png",
+                "assets/images/cafe/cafe7.png"
             ],
             "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
         },

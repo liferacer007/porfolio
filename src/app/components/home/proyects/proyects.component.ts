@@ -35,22 +35,23 @@ this.projects=[{
       "assets/images/portfolio/portfolio1.png",
       "assets/images/portfolio/portfolio2.png",
       "assets/images/portfolio/portfolio3.png",
-      // "assets/images/portfolio/portfolio4.png",
-      // "assets/images/portfolio/portfolio5.png"
   ],
   "Technologies": ["Angular", "SCSS", ]
 },
 {
-  "Title": "Tu super plan",
+  "Title": "Cafe App",
   "Description": "Health plan quote that has a search engine with which advanced queries are made. Plans are displayed based on the user's age, monthly income, and location. It has <span class='underline'>online chat</span, <span class='underline'>contact form</span>, <span class='underline'>notification system by whatsapp and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>internet information management through the role of administrator.</span>",
+  "demoLink": "https://cafeweb.z13.web.core.windows.net/home",
   "imgs": [
-      "assets/images/tusuperplan/tusuperplan1.png",
-      "assets/images/tusuperplan/tusuperplan2.png",
-      "assets/images/tusuperplan/tusuperplan3.png",
-      "assets/images/tusuperplan/tusuperplan4.png",
-      "assets/images/tusuperplan/tusuperplan5.png"
+      "assets/images/cafe/cafe1.png",
+      "assets/images/cafe/cafe2.png",
+      "assets/images/cafe/cafe3.png",
+      "assets/images/cafe/cafe4.png",
+      "assets/images/cafe/cafe5.png",
+      "assets/images/cafe/cafe6.png",
+      "assets/images/cafe/cafe7.png",
   ],
-  "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+  "Technologies": ["Angular", "NodeJs", "PostgreSQL", "RxJS", "Bootstrap", "JQuery"]
 },
 {
   "Title": "Proyexiot",
