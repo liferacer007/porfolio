@@ -61,52 +61,64 @@ export class ProyectsComponent implements OnInit {
       //   "Title": "Proyexiot",
       //   "Description": "Data monitoring platform belonging to water wells, tugboats, and various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
       //   "imgs": [
-        //       "assets/images/proyex/proyex1.png",
-        //       "assets/images/proyex/proyex2.png",
-        //       "assets/images/proyex/proyex3.png",
-        //       "assets/images/proyex/proyex4.png",
-        //       "assets/images/proyex/proyex5.png",
-        //       "assets/images/proyex/proyex6.png",
-        //       "assets/images/proyex/proyex7.png",
-        //       "assets/images/proyex/proyex8.png",
-        //       "assets/images/proyex/proyex9.png",
-        //       "assets/images/proyex/proyex10.png",
-        //       "assets/images/proyex/proyex11.png",
-        //       "assets/images/proyex/proyex12.png"
-        //   ],
-        //   "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
-        // },
-        {
-          "Title": "CRM",
-          "Description": "Significantly contributed to the development of an <span class='underline'>in-house webapp</span> for <span class='underline'>TankhaPay</span>, a product of <span class='underline'>Akal Infosys</span>, which successfully secured funding of <span class='underline'>2.7 million</span> from Japanese investors. The platform efficiently manages employer and employee profiles, catering to a diverse workforce, including gig workers, blue-collar, and white-collar employees, streamlining the registration process and enhancing workforce management",
-          "demoLink": "https://theprint.in/ani-press-releases/tankhapay-developed-by-akal-information-systems-ltd-gets-2-7-million-usd-funding-from-japanese-investors/1638984/",
-          "date": "Aug 2022 - Present",
-          "imgs": [
-            "assets/images/hands-game.png",
-          ],
-          // "ghLink": "https://github.com/andresjosehr/hands-game",
-          "Technologies": ["Angular", "CSS", "Bootstrap", "JQuery", "NodeJs", "PostgreSQL"]
-        },
-        {
-          "Title": "Solidity - Blogs",
-          "Description": "A site that helps you learn solidity with Smart Contract examples.",
-          "demoLink": "https://harshrathi0553.wixsite.com/solidity",
-          "date": "(Dec 2021 - Feb 2022)",
-          "imgs": [
-            "assets/images/portfolio/portfolio1.png",
-            "assets/images/portfolio/portfolio2.png",
-            "assets/images/portfolio/portfolio3.png",
-          ],
-          "Technologies": ["Angular", "SCSS", "Azure"]
-        },
-      // {
-      //   "Title": "Countries viewer",
-      //   "Description": "An interface that consumes an API of countries with which you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
-      //   "imgs": ["assets/images/countries-viewer.png"],
-      //   "ghLink": "https://github.com/andresjosehr/countries-viewer",
-      //   "demoLink": "https://projects.andresjosehr.com/countries-viewer",
-      //   "Technologies": ["Angular", "RxJS", "SASS", "API"]
-      // }
+      //       "assets/images/solidity-blog/solidity-blog1.png",
+      //       "assets/images/solidity-blog/solidity-blog2.png",
+      //       "assets/images/solidity-blog/solidity-blog3.png",
+      //       "assets/images/solidity-blog/solidity-blog4.png",
+      //       "assets/images/solidity-blog/solidity-blog5.png",
+      //   ],
+      //   "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+      // },
+      {
+        "Title": "CRM",
+        "Description": "Significantly contributed to the development of an <span class='underline'>in-house webapp</span> for <span class='underline'>TankhaPay</span>, a product of <span class='underline'>Akal Infosys</span>, which successfully secured funding of <span class='underline'>2.7 million</span> from Japanese investors. The platform efficiently manages employer and employee profiles, catering to a diverse workforce, including gig workers, blue-collar, and white-collar employees, streamlining the registration process and enhancing workforce management",
+        "demoLink": "https://theprint.in/ani-press-releases/tankhapay-developed-by-akal-information-systems-ltd-gets-2-7-million-usd-funding-from-japanese-investors/1638984/",
+        "date": "Aug 2022 - Present",
+        "imgs": [
+          "assets/images/hands-game.png",
+        ],
+        // "ghLink": "https://github.com/andresjosehr/hands-game",
+        "Technologies": ["Angular", "CSS", "Bootstrap", "JQuery", "NodeJs", "PostgreSQL"]
+      },
+      {
+        "Title": "Solidity - Blogs",
+        "Description": "A site that helps you learn <span class='underline'>Solidity</span> by <span class='underline'>Smart Contract</span> examples made by wixsite-builder.",
+        "demoLink": "https://harshrathi0553.wixsite.com/solidity",
+        "date": "(Nov 2021 - Feb 2022)",
+        "imgs": [
+          "assets/images/solidity-blog/solidity-blog1.png",
+          "assets/images/solidity-blog/solidity-blog2.png",
+          "assets/images/solidity-blog/solidity-blog3.png",
+          "assets/images/solidity-blog/solidity-blog4.png",
+          "assets/images/solidity-blog/solidity-blog5.png",
+        ],
+        "Technologies": ["Solidity", "Smart Contracts", "Remix IDE", "Blockchain Basics"]
+      },
+      {
+        "Title": "Notes_App",
+        "Description": "Developed Notes_App, a <span class='underline'>native Android</span> note-taking app available on the <span class='underline'>Google PlayStore</span>. Leveraging Android Studio, Java, and XML, Implemented the <span class='underline'>MVVM architecture</span> and integrated <span class='underline'>Room Database</span> for efficient data storage. It was designed for optimal performance, user-friendliness, and reliability.",
+        "date": "Jan 2022 - Feb 2022",
+        "imgs": [
+          "assets/images/mobile-apps/notes-app1.png",
+          "assets/images/mobile-apps/notes-app2.png"
+        ],
+        // "imgs": ["assets/images/countries-viewer.png"],
+        // "ghLink": "https://github.com/andresjosehr/countries-viewer",
+        "demoLink": "https://play.google.com/store/apps/details?id=com.MyApp.notes_app",
+        "Technologies": ["Android", "Java", "Android Studio", "XML", "MVVM"]
+      },
+      {
+        "Title": "eDrona",
+        "Description": "Your B.Tech Study Companion for MDU University. <span class='underline'>Free, high-quality notes</span> for MDU B.Tech students. Streamlined online learning in the pandemic era. Expanding resources across all engineering branches. Your go-to destination for on-the-go learning",
+        "date": "Jan 2022 - Feb 2022",
+        "imgs": [
+          "assets/images/mobile-apps/edrona1.png",
+          "assets/images/mobile-apps/edrona2.png",
+          "assets/images/mobile-apps/edrona3.png"
+        ],
+        "demoLink": "https://play.google.com/store/apps/details?id=com.harshrathi.edrona",
+        "Technologies": ["Android", "Java", "Android Studio", "XML", "Google Drive"]
+      },
     ]
 
   }
