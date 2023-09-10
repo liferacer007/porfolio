@@ -103,7 +103,7 @@
       "Title": "Cafe Management App",
       "Description": "This project featured <span class='underline'>JWT token authentication</span>, <span class='underline'>role-based access</span> control, and <span class='underline'>Google OAuth2</span> for secure email capabilities. Integrated <span class='underline'>JQuery & Bootstrap</span> for a polished user interface & implemented <span class='underline'>lazy loading</span> for optimized performance. <span class='underline'>Router guards & animations</span> were used for a seamless user experience. Also developed <span class='underline'>reactive forms</span>, handled <span class='underline'>PDF generation & downloads</span>, & leveraged <span class='underline'>dependency injection & RxJS</span> for efficient asynchronous operations with <span class='underline'>Interceptors</span> for handling HTTP requests and responses. This project seamlessly integrated <span class='underline'>Angular</span> with <span class='underline'>Node.js</span> & <span class='underline'>PostgreSQL</span>, managing product categories, products, order, view-bill and user-mgmt components for streamlined cafe management.",
       "demoLink": "https://cafeweb.z13.web.core.windows.net/home",
-      "date": "(June 2023 - Sept 2023)",
+      "date": "(May 2023 - Sept 2023)",
       "imgs": [
         "assets/images/cafe/cafe1.png",
         "assets/images/cafe/cafe2.png",
