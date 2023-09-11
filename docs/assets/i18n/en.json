@@ -89,11 +89,15 @@
       "demoLink": "https://cafeweb.z13.web.core.windows.net/home",
       "date": "(Aug 2023 - Sept 2023)",
       "imgs": [
-          "assets/images/portfolio/portfolio1.png",
-          "assets/images/portfolio/portfolio2.png",
-          "assets/images/portfolio/portfolio3.png"
+        "assets/images/portfolio/portfolio1.png",
+        "assets/images/portfolio/portfolio2.png",
+        "assets/images/portfolio/portfolio3.png"
       ],
-      "Technologies": ["Angular", "SCSS", "Azure" ]
+      "Technologies": [
+        "Angular",
+        "SCSS",
+        "Azure"
+      ]
     },
     {
       "Title": "Cafe Management App",
@@ -101,15 +105,23 @@
       "demoLink": "https://cafeweb.z13.web.core.windows.net/home",
       "date": "(May 2023 - Sept 2023)",
       "imgs": [
-          "assets/images/cafe/cafe1.png",
-          "assets/images/cafe/cafe2.png",
-          "assets/images/cafe/cafe3.png",
-          "assets/images/cafe/cafe4.png",
-          "assets/images/cafe/cafe5.png",
-          "assets/images/cafe/cafe6.png",
-          "assets/images/cafe/cafe7.png"
+        "assets/images/cafe/cafe1.png",
+        "assets/images/cafe/cafe2.png",
+        "assets/images/cafe/cafe3.png",
+        "assets/images/cafe/cafe4.png",
+        "assets/images/cafe/cafe5.png",
+        "assets/images/cafe/cafe6.png",
+        "assets/images/cafe/cafe7.png"
       ],
-      "Technologies": ["Angular", "Bootstrap", "JQuery", "RxJS", "NodeJs", "PostgreSQL", "Azure"]
+      "Technologies": [
+        "Angular",
+        "Bootstrap",
+        "JQuery",
+        "RxJS",
+        "NodeJs",
+        "PostgreSQL",
+        "Azure"
+      ]
     },
     {
       "Title": "Solidity - Blogs",
