@@ -75,7 +75,17 @@ export class ProyectsComponent implements OnInit {
         "demoLink": "https://theprint.in/ani-press-releases/tankhapay-developed-by-akal-information-systems-ltd-gets-2-7-million-usd-funding-from-japanese-investors/1638984/",
         "date": "Aug 2022 - Present",
         "imgs": [
-          "assets/images/hands-game.png",
+          // "assets/images/hands-game.png",
+          "assets/images/crm-imgs/crm0.png",
+          "assets/images/crm-imgs/crm01.png",
+          "assets/images/crm-imgs/crm02.png",
+          "assets/images/crm-imgs/crm03.png",
+          "assets/images/crm-imgs/crm04.png",
+          "assets/images/crm-imgs/crm05.png",
+          "assets/images/crm-imgs/crm06.png",
+          "assets/images/crm-imgs/crm07.png",
+          "assets/images/crm-imgs/crm08.png",
+          "assets/images/crm-imgs/crm09.png",
         ],
         // "ghLink": "https://github.com/andresjosehr/hands-game",
         "Technologies": ["Angular", "CSS", "Bootstrap", "JQuery", "NodeJs", "PostgreSQL"]
