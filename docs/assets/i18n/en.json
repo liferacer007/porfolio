@@ -89,11 +89,15 @@
       "demoLink": "https://cafeweb.z13.web.core.windows.net/home",
       "date": "(Aug 2023 - Sept 2023)",
       "imgs": [
-          "assets/images/portfolio/portfolio1.png",
-          "assets/images/portfolio/portfolio2.png",
-          "assets/images/portfolio/portfolio3.png"
+        "assets/images/portfolio/portfolio1.png",
+        "assets/images/portfolio/portfolio2.png",
+        "assets/images/portfolio/portfolio3.png"
       ],
-      "Technologies": ["Angular", "SCSS", "Azure" ]
+      "Technologies": [
+        "Angular",
+        "SCSS",
+        "Azure"
+      ]
     },
     {
       "Title": "Cafe Management App",
@@ -101,15 +105,42 @@
       "demoLink": "https://cafeweb.z13.web.core.windows.net/home",
       "date": "(May 2023 - Sept 2023)",
       "imgs": [
-          "assets/images/cafe/cafe1.png",
-          "assets/images/cafe/cafe2.png",
-          "assets/images/cafe/cafe3.png",
-          "assets/images/cafe/cafe4.png",
-          "assets/images/cafe/cafe5.png",
-          "assets/images/cafe/cafe6.png",
-          "assets/images/cafe/cafe7.png"
+        "assets/images/cafe/cafe1.png",
+        "assets/images/cafe/cafe2.png",
+        "assets/images/cafe/cafe3.png",
+        "assets/images/cafe/cafe4.png",
+        "assets/images/cafe/cafe5.png",
+        "assets/images/cafe/cafe6.png",
+        "assets/images/cafe/cafe7.png"
       ],
-      "Technologies": ["Angular", "Bootstrap", "JQuery", "RxJS", "NodeJs", "PostgreSQL", "Azure"]
+      "Technologies": [
+        "Angular",
+        "Bootstrap",
+        "JQuery",
+        "RxJS",
+        "NodeJs",
+        "PostgreSQL",
+        "Azure"
+      ]
+    },
+    {
+      "Title": "CRM (Candidate Relationship Management)",
+      "Description": "Significantly contributed to the development of an <span class='underline'>in-house webapp</span> for <span class='underline'>TankhaPay</span>, a product of <span class='underline'>Akal Infosys</span>, which successfully secured funding of <span class='underline'>2.7 million</span> from Japanese investors. The platform efficiently manages employer and employee profiles, catering to a diverse workforce, including gig workers, blue-collar, and white-collar employees, streamlining the registration process and enhancing workforce management",
+      "demoLink": "https://theprint.in/ani-press-releases/tankhapay-developed-by-akal-information-systems-ltd-gets-2-7-million-usd-funding-from-japanese-investors/1638984/",
+      "date": "Aug 2022 - Present",
+      "imgs": [
+        "assets/images/crm-imgs/crm0.png",
+        "assets/images/crm-imgs/crm01.png",
+        "assets/images/crm-imgs/crm02.png",
+        "assets/images/crm-imgs/crm03.png",
+        "assets/images/crm-imgs/crm04.png",
+        "assets/images/crm-imgs/crm05.png",
+        "assets/images/crm-imgs/crm06.png",
+        "assets/images/crm-imgs/crm07.png",
+        "assets/images/crm-imgs/crm08.png",
+        "assets/images/crm-imgs/crm09.png"
+      ],
+      "Technologies": ["Angular", "CSS", "Bootstrap", "JQuery", "NodeJs", "PostgreSQL"]
     },
     {
       "Title": "Solidity - Blogs",
